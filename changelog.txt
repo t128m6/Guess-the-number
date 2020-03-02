@@ -1,0 +1,7 @@
+Version 1.0(2020/03/02)
+
+    -Languages:
+        German
+        English
+
+    -Default range: 1 - 1000(adjustable)
