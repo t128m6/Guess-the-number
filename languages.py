@@ -28,7 +28,7 @@ english = \
     2:'What is your guess?: ',
     3:'Your guess was to high.',
     4:'Your guess was to low.',
-    5:'You guessed right and won! Want to play again? Type "rematch" and press Enter.',
+    5:'You got the right number',
     6:'The number was: ',
     7:'Number of tries: ',
     8:'Program got closed!',
